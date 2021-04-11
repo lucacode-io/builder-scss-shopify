@@ -1,0 +1,29 @@
+{
+  "name": "builder-scss-shopify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucacode-io/builder-scss-shopify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucacode-io/builder-scss-shopify/issues"
+  },
+  "homepage": "https://github.com/lucacode-io/builder-scss-shopify#readme",
+  "dependencies": {
+    "@shopify/themekit": "^1.1.7"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
+  }
+}

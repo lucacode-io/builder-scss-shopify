@@ -1,0 +1,6 @@
+development:
+  password: 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
+  theme_id: "121737904315" #Template istore  - Builder Hero
+  store: dev-istore.myshopify.com
+  ignore_files : 
+    - config/settings_data.json
