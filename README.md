@@ -41,3 +41,19 @@ gulp.task('watch', function() {
 ```
 
 Obs: a configuração do gulpfile vai de acordo com a sua necessidade no projeto
+
+### Rodando o projeto
+
+Essa configuração do **gulpfile.js** permite que a CLI do Shopify , o ThmeKit rode em conjunto como uma task do gulp, sendo assim, para começar um projeto novo , inicialmente rode o comando
+
+```bash
+theme download
+```
+
+ele irá baixar os arquivos do seu tema  da loja shopify, depois disso se tudo deu certo, rode o comando 
+
+```bash
+gulp watch 
+```
+
+Agora nesse instante ele irá monitorar e atualizar todas as mudanças na pasta **styles**, e compilará para a pasta **assets**, e em seguida irá atualizar direto na shopify, não se preucupe, pois a shopify só entende os arquivos dela , ou seja, não irá subir nenhuma pasta a mais na loja.
