@@ -3,7 +3,7 @@
 
 ### Como usar esse template ?
 
-1 - Configure seu arquivo **config.yml** do projeto shopify, te não tem ele crie o mesmo 
+1 - Configure seu arquivo **config.yml** do seu projeto shopify, se não tem ele crie o mesmo 
 
 ```yml
 development:
