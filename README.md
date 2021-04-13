@@ -57,6 +57,3 @@ gulp watch
 ```
 
 Agora nesse instante ele irá monitorar e atualizar todas as mudanças na pasta **styles**, e compilará para a pasta **assets**, e em seguida irá atualizar direto na shopify, não se preucupe, pois a shopify só entende os arquivos dela , ou seja, não irá subir nenhuma pasta a mais na loja.
-
-
-### With by Lucas Xavier
