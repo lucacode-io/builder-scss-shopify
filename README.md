@@ -16,7 +16,7 @@ development:
 
 2 - Depois, dependendo do que será criado nos estilos ou scripts, nessa parte o mesmo terá que se adptar de acordo com seu projeto
 
-- Aqui temos a config inicial do **gulpifile.js**
+- Aqui temos a config inicial do **gulpfile.js**
 
 ```js
 const gulp = require('gulp');
