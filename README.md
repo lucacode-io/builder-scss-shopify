@@ -1,7 +1,7 @@
-## Builder Hero - SCSS Shopify 📦
+# Builder Hero - SCSS Shopify 📦
 
 
-### Como usar esse template ?
+## Como usar esse template ?
 
 1 - Configure seu arquivo **config.yml** do seu projeto shopify, se não tem ele crie o mesmo 
 
@@ -42,7 +42,7 @@ gulp.task('watch', function() {
 
 Obs: a configuração do gulpfile vai de acordo com a sua necessidade no projeto
 
-### Rodando o projeto
+## Rodando o projeto
 
 Essa configuração do **gulpfile.js** permite que a CLI do Shopify , o ThmeKit rode em conjunto como uma task do gulp, sendo assim, para começar um projeto novo , inicialmente rode o comando
 
@@ -57,3 +57,6 @@ gulp watch
 ```
 
 Agora nesse instante ele irá monitorar e atualizar todas as mudanças na pasta **styles**, e compilará para a pasta **assets**, e em seguida irá atualizar direto na shopify, não se preucupe, pois a shopify só entende os arquivos dela , ou seja, não irá subir nenhuma pasta a mais na loja.
+
+
+### With by Lucas Xavier
